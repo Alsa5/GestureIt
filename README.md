@@ -29,4 +29,4 @@ Contributions are welcome! Feel free to submit issues or pull requests.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
-For questions or support, contact AL.Sakthi(mailto:alsa21104.it@rmkec.ac.in).
+For questions or support, contact Sakthi Alagappan (mailto:alsa21104.it@rmkec.ac.in).
